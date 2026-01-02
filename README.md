@@ -642,3 +642,4 @@ Du har nu byggt en fungerande SPA med:
 ✅ **Styling** - Design system med CSS-variabler  
 
 
+# workshop-ts-gallery-api-anrop-solution
